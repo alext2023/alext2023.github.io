@@ -1,5 +1,11 @@
 body { 
-  background-color: #0d1f2d ;
+  background-color: #edede9 ;
+  
 }
 p, li, a { 
-front-family: "A" }
+font-family: "ariel";
+color:deeppink;
+ }
+ h1{
+  color:black;
+ }
