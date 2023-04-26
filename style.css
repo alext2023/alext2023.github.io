@@ -9,3 +9,8 @@ color:deeppink;
  h1{
   color:black;
  }
+img{
+  border:5px solid transparent;
+  padding:2px;
+  border-color:slategray;
+}
